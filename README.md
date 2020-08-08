@@ -10,7 +10,3 @@ Hello world！This is [Yang](https://www.linkedin.com/in/theyuan/). Yang is guil
 - 💬 Ask me about [anything](https://yngyuan.github.io/categories/), for I am interested in all tricks of trades from UX design, software development to product management and digital marketing.
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: Plays a little bit of [music](https://space.bilibili.com/336791775).
-
-#### Crimes
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yngyuan&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-
