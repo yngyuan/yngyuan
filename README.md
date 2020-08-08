@@ -12,5 +12,5 @@ Hello world！This is [Yang](https://www.linkedin.com/in/theyuan/). Yang is guil
 - ⚡ Fun fact: Plays a little bit of [music](https://space.bilibili.com/336791775).
 
 #### Crimes
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yngyuan&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yngyuan&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
