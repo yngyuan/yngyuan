@@ -3,7 +3,7 @@
 
 #### About
 
-Hello world！This is [Yang](https://www.linkedin.com/in/theyuan/). Yang is guilty of being a *young, scrapy and hungry* Full-Stack Software Engineer and Indie Game Developer. Currently a Master's student at UT Austin. Left some fingerprints at [BUPT](https://www.linkedin.com/school/%E5%8C%97%E4%BA%AC%E9%82%AE%E7%94%B5%E5%A4%A7%E5%AD%A6/), [Tencent](https://www.linkedin.com/company/tencentglobal/) and [Amazon](https://www.linkedin.com/company/amazon/).
+Hello world！This is [Yang](https://www.linkedin.com/in/theyuan/). Yang is guilty of being a *young, scrapy and hungry* Full-Stack Software Engineer and an aspiring  Indie Game Developer. Currently a Master's student at UT Austin. Left some fingerprints at [BUPT](https://www.linkedin.com/school/%E5%8C%97%E4%BA%AC%E9%82%AE%E7%94%B5%E5%A4%A7%E5%AD%A6/), [Tencent](https://www.linkedin.com/company/tencentglobal/) and [Amazon](https://www.linkedin.com/company/amazon/).
 
 #### Confession
 - 🔭 I’m currently working on wearing cool tech company T-Shirts full-time.
