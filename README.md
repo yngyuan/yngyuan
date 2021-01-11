@@ -1,5 +1,5 @@
 ### Hi there 👋
-![moon](https://github.com/yngyuan/yngyuan/blob/master/zed.jpg?raw=true)
+![zed](https://github.com/yngyuan/yngyuan/blob/master/gif.gif?raw=true)
 
 #### About
 
